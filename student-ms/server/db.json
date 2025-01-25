@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "fanzong",
+      "age": 20,
+      "sex": "M",
+      "course": "BSCS",
+      "phone": "1234567890",
+      "email": "123"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "age": 21,
+      "course": "BSIT",
+      "sex": "F",
+      "phone": "1234567890",
+      "email": "123"
+    },
+    {
+      "id": "3",
+      "name": "Juan Dela Cruz",
+      "age": 22,
+      "course": "BSIT",
+      "sex": "M",
+      "phone": "1234567890",
+      "email": "123"
+    },
+    {
+      "id": "4",
+      "name": "Maria Clara",
+      "age": 23,
+      "course": "BSCS",
+      "sex": "F",
+      "phone": "1234567890",
+      "email": "123"
+    }
+  ]
+}
